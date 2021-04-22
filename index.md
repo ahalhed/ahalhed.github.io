@@ -2,7 +2,7 @@
 
 This page is in progress! Find me at other pages for now.
 
-<a href='https://outlook.office365.com/owa/calendar/MeetWithAlicia@uoguelphca.onmicrosoft.com/bookings/'>Schedule an online meeting with Alicia</a>
+<iframe src='https://outlook.office365.com/owa/calendar/MeetWithAlicia@uoguelphca.onmicrosoft.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
