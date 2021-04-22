@@ -1,8 +1,6 @@
 ## Alicia's Github Pages
 
-This page is in progress! Find me at other pages for now.
-
-<iframe src='https://outlook.office365.com/owa/calendar/MeetWithAlicia@uoguelphca.onmicrosoft.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>
+This page is in progress! Find me at other pages for now. Alternatively, you can <a href='https://outlook.office365.com/owa/calendar/MeetWithAlicia@uoguelphca.onmicrosoft.com/bookings/'>schedule an online meeting with Alicia</a>.
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
