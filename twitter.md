@@ -1,1 +1,0 @@
-<a class="twitter-timeline" data-theme="light" href="https://twitter.com/ahalhed?ref_src=twsrc%5Etfw">Tweets by ahalhed</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
